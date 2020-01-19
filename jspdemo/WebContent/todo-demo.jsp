@@ -9,7 +9,7 @@
 	<input type="submit" value="Submit"> 
 </form>
 
-<!--  Step 2: Add new item to "To Do " list -->>
+<!--  Step 2: Add new item to "To Do " list -->
 
 <%
 	// get the To Do items from the session 
